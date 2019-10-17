@@ -8,7 +8,7 @@ from osgeo import gdalconst
 from gdalconst import *
 import sys
 import os
-import commands
+import subprocess
 import datetime
 import logging
 from optparse import OptionParser
