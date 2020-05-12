@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 from osgeo import gdal
 from osgeo import ogr
 from osgeo import osr

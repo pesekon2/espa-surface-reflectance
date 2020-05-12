@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 
 '''
     PURPOSE: Determine which executable to run and then pass all arguments

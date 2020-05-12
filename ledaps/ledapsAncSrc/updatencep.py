@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ############################################################################
 # Updated on 12/27/2012 by Gail Schmidt, USGS EROS
